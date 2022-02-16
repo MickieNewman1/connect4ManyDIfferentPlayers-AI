@@ -1,0 +1,49 @@
+#borderPane
+{
+	-fx-alignment: center;
+	-fx-padding: 0,0,0,0;
+}
+
+#grid
+{
+	-fx-hgap: 15;
+	-fx-vgap: 5;
+	-fx-alignment: top-center;
+	-fx-padding: 10;
+}
+
+#leftgrid
+{
+	-fx-hgap: 15;
+	-fx-vgap: 5;
+	-fx-alignment: top-left;
+	-fx-padding: 0 0 0 10;
+}
+
+#hbox
+{
+	-fx-spacing: 10;
+	-fx-alignment: center-left;
+}
+
+#scoreboard
+{
+	-fx-alignment: center;
+	-fx-spacing: 15;
+	-fx-border-color: lightgrey;
+}
+
+#grid Button 
+{ 
+	-fx-max-width: infinity; 
+}
+
+#canvas
+{
+	-fx-alignment: center;
+}
+
+#turnLabel
+{
+	-fx-content-display: right;
+}
